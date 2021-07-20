@@ -30,7 +30,6 @@ const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
     duration: 2000,
-    rotate: { x: 0, y: 0, z: 30 },
     reset: true
 });
 
